@@ -3,7 +3,7 @@ name = "cuda-soa-lab"
 version = "0.1.0"
 description = "A FastAPI app with Prometheus metrics and GPU support via Numba"
 authors = [
-    { name = "Your Name", email = "you@example.com" }
+    { name = "Abou DIALLO", email = "aboumoctardiallo@gmail.com" }
 ]
 requires-python = ">=3.12, <3.13"
 dependencies = [
