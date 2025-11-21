@@ -56,7 +56,7 @@ cd cuda-soa-lab
 ```
 
 ## Project Structure
-
+```
 cuda-soa-lab/
 ├── main.py                 # FastAPI application
 ├── gpu_service.cu          # CUDA C++ implementation
@@ -68,7 +68,7 @@ cuda-soa-lab/
 ├── matrix1.npz            # Test data
 ├── matrix2.npz            # Test data
 └── README.md              # This file
-
+```
 
 ##  Environment Setup
 pip install -r requirements.txt
